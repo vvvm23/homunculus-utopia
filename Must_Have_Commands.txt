@@ -1,0 +1,24 @@
+!ugg
+Makes you go Ugg
+
+!inv / !inventory
+Shows you all the items you have, only item you need rn is 'bean'
+
+!data
+Shows player data, with emoji picture of there homunc
+
+Name: @person
+Level: 1
+Metabeans: 5
+
+Also !level and !metabeans just show that
+
+!plant [bean]
+
+Uses a bean from iventory, if you have one, otherwise calls you stupid.
+Plants a bean, after 15(?) minutes you can reap for 2-5 new beans.
+Can only have one bean planted right now.
+
+!reap
+
+Reaps all plants.
